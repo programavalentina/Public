@@ -1,5 +1,3 @@
-# public
-All our public findings
 
 # Project Title
 
